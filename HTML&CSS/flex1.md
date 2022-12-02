@@ -9,7 +9,7 @@
 
 요소가 한 줄로 늘어서 있을 때 `flex-basis`가 **너비의 기준**이 된다. `flex-basis`**는 main axis인 가로에 걸쳐있기** 때문이다. `flex-basis`는 요소가 배치될 때의 최초 크기이다. **main axis의 방향에 따라 width이기도 하고 height이기도** 하다.
 
-![https://user-images.githubusercontent.com/87808288/179656704-043c3a49-6b9d-457a-a666-234a6a103faa.png](https://user-images.githubusercontent.com/87808288/179656704-043c3a49-6b9d-457a-a666-234a6a103faa.png)
+<img src="https://user-images.githubusercontent.com/87808288/205209905-622ae648-4313-4069-a59d-ccacfae81f53.png" width="70%">  
 
 ```css
 item1 {
@@ -51,7 +51,7 @@ item3 {
 }
 ```
 
-![스크린샷 2022-12-02 오전 2.16.41.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7b5ea14-ef48-4f24-88cd-13d1c21f942f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-12-02_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_2.16.41.png)
+<img src="https://user-images.githubusercontent.com/87808288/205210012-3c9bf324-9995-4426-ba27-1037af092ff3.png" width="90%">
 
 원래 width를 설정하면 100px을 넘는 BBB도 100px로 맞춰진다.
 
@@ -181,9 +181,7 @@ item3 {
 
 🔥 **원리**
 
-![아이템의 width 값이 더 적어 여백이 생겼다.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/039ec63b-80eb-41ba-8d70-9b9443845fd7/whiteSpace.jpeg)
-
-아이템의 width 값이 더 적어 여백이 생겼다.
+<img src="https://user-images.githubusercontent.com/87808288/205210171-62370136-b846-43d6-beec-a479413514ed.png" width="90%">
 
 위의 이미지는 레이아웃의 너비보다 **아이템(content)들의 width 값이 더 적어** 여백이 남게 된 것이다. 그래서 위에서 배운 `flex-grow`를 사용하면 남은 여백 공간 만큼을 채울 수 있게 된다. 아래의 코드와 이미지를 살펴보자.
 
@@ -202,11 +200,11 @@ item3 {
 }
 ```
 
-![flex-grow를 사용하여 여백을 모두 채웠다!](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1618d1e6-fce7-433b-a42e-64af58d67336/full.jpeg)
+<img src="https://user-images.githubusercontent.com/87808288/205210344-39fc5cd3-70e7-4197-850e-cd7dad07febc.png" width="80%">
 
 flex-grow를 사용하여 여백을 모두 채웠다!
 
-![flex-grow 1 하나가 45px을 가지게 되었다.(flex-grow가 2라면 90px!)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81757cd5-ceba-41f0-8d6f-07b94c961779/flexGrow.jpeg)
+<img src="https://user-images.githubusercontent.com/87808288/205210432-1b858961-1b36-4ec9-98ce-fc26947fbc4f.png" width="90%">
 
 flex-grow 1 하나가 45px을 가지게 되었다.(flex-grow가 2라면 90px!)
 
@@ -263,15 +261,15 @@ flex box 안의 아이템들에 적용된 `flex-grow` **속성 값의 합(**4**)
 }
 ```
 
-![.flexbox의 크기를 item들이 넘어섰다.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1e1a953-67a3-4721-84b5-f60547f7fc8d/over.jpeg)
+<img src="https://user-images.githubusercontent.com/87808288/205210525-1bb77fe0-ee53-4aa9-8aa3-d418889c79a2.png" width="90%">
 
 .flexbox의 크기를 item들이 넘어섰다.
 
-![flex-shrink를 설정한 후 .flexbox의 width 이하의 크기에서는 이렇게 설정한 만큼 줄어든다.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1306d14-0707-41f4-88db-60bceafa3b00/fit.jpeg)
+<img src="https://user-images.githubusercontent.com/87808288/205210591-23a571e7-14e7-498f-ab0c-e1e91c79dccf.png" width="80%">
 
 flex-shrink를 설정한 후 .flexbox의 width 이하의 크기에서는 이렇게 설정한 만큼 줄어든다.
 
-![flexShrink.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d2c144c-76c8-4243-a3f3-19b9fc52e348/flexShrink.jpeg)
+<img src="https://user-images.githubusercontent.com/87808288/205210672-88d8c828-e32e-4643-ade8-32cf2263335a.png" width="100%">
 
 이렇게 초과한 여백(`800px - 580px = 220px`)을 `flex-shrink`의 합으로 나누고 `flex-shrink`의 값만큼 아이템의 `width`를 줄여준다.
 
