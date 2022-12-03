@@ -9,7 +9,7 @@
 
 요소가 한 줄로 늘어서 있을 때 `flex-basis`가 **너비의 기준**이 된다. `flex-basis`**는 main axis인 가로에 걸쳐있기** 때문이다. `flex-basis`는 요소가 배치될 때의 최초 크기이다. **main axis의 방향에 따라 width이기도 하고 height이기도** 하다.
 
-<img src="https://user-images.githubusercontent.com/87808288/205209905-622ae648-4313-4069-a59d-ccacfae81f53.png" width="70%">  
+<img src="https://user-images.githubusercontent.com/87808288/205209905-622ae648-4313-4069-a59d-ccacfae81f53.png" width="60%">  
 
 ```css
 item1 {
@@ -181,7 +181,7 @@ item3 {
 
 🔥 **원리**
 
-<img src="https://user-images.githubusercontent.com/87808288/205210171-62370136-b846-43d6-beec-a479413514ed.png" width="90%">
+<img src="https://user-images.githubusercontent.com/87808288/205210171-62370136-b846-43d6-beec-a479413514ed.png" width="70%">
 
 위의 이미지는 레이아웃의 너비보다 **아이템(content)들의 width 값이 더 적어** 여백이 남게 된 것이다. 그래서 위에서 배운 `flex-grow`를 사용하면 남은 여백 공간 만큼을 채울 수 있게 된다. 아래의 코드와 이미지를 살펴보자.
 
@@ -200,15 +200,15 @@ item3 {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/87808288/205210344-39fc5cd3-70e7-4197-850e-cd7dad07febc.png" width="80%">
+<img src="https://user-images.githubusercontent.com/87808288/205210344-39fc5cd3-70e7-4197-850e-cd7dad07febc.png" width="70%">
 
 flex-grow를 사용하여 여백을 모두 채웠다!
 
-<img src="https://user-images.githubusercontent.com/87808288/205210432-1b858961-1b36-4ec9-98ce-fc26947fbc4f.png" width="90%">
+<img src="https://user-images.githubusercontent.com/87808288/205210432-1b858961-1b36-4ec9-98ce-fc26947fbc4f.png" width="80%">
 
 flex-grow 1 하나가 45px을 가지게 되었다.(flex-grow가 2라면 90px!)
 
-flex box 안의 아이템들에 적용된 `flex-grow` **속성 값의 합(**4**)**을 구한다. 그리고 남은 **여백을 위에서 구한 합으로 나누게** 된다(`45px`).(패딩 값은 제외한다.) 그렇게 `flex-grow` **속성 값만큼** `45px`**을 더하여** 각각의 `content` 너비가 결정되는 것이다.
+flex box 안의 아이템들에 적용된 `flex-grow` 속성 값의 합(4)을 구한다. 그리고 남은 **여백을 위에서 구한 합으로 나누게** 된다(`45px`).(패딩 값은 제외한다.) 그렇게 `flex-grow` **속성 값만큼** `45px`**을 더하여** 각각의 `content` 너비가 결정되는 것이다.
 
 ## **flex-shrink**
 
@@ -261,15 +261,15 @@ flex box 안의 아이템들에 적용된 `flex-grow` **속성 값의 합(**4**)
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/87808288/205210525-1bb77fe0-ee53-4aa9-8aa3-d418889c79a2.png" width="90%">
+<img src="https://user-images.githubusercontent.com/87808288/205210525-1bb77fe0-ee53-4aa9-8aa3-d418889c79a2.png" width="70%">
 
 .flexbox의 크기를 item들이 넘어섰다.
 
-<img src="https://user-images.githubusercontent.com/87808288/205210591-23a571e7-14e7-498f-ab0c-e1e91c79dccf.png" width="80%">
+<img src="https://user-images.githubusercontent.com/87808288/205210591-23a571e7-14e7-498f-ab0c-e1e91c79dccf.png" width="70%">
 
 flex-shrink를 설정한 후 .flexbox의 width 이하의 크기에서는 이렇게 설정한 만큼 줄어든다.
 
-<img src="https://user-images.githubusercontent.com/87808288/205210672-88d8c828-e32e-4643-ade8-32cf2263335a.png" width="100%">
+<img src="https://user-images.githubusercontent.com/87808288/205210672-88d8c828-e32e-4643-ade8-32cf2263335a.png" width="90%">
 
 이렇게 초과한 여백(`800px - 580px = 220px`)을 `flex-shrink`의 합으로 나누고 `flex-shrink`의 값만큼 아이템의 `width`를 줄여준다.
 
@@ -298,7 +298,7 @@ flex-basis: 0%
 
 `flex-basis`가 `0%`이므로 **점유 크기를 0**으로 만든 후 **화면 비율에 따라 유연하게 늘어나거나 줄어들게** 된다. 이러한 특성을 이용하여 **footer를 하단에 고정**할 때도 사용된다.
 
-> 💡 **참고자료**
-*어포스트: [CSS 플렉스박스(flex) flex-grow와 flex-shrink 속성의 완벽 이해](https://blogpack.tistory.com/863)
+> 💡 **참고자료**  
+*어포스트: [CSS 플렉스박스(flex) flex-grow와 flex-shrink 속성의 완벽 이해](https://blogpack.tistory.com/863)  
 1분코딩: [이번에야말로 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)*
 >
