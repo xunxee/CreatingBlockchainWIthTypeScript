@@ -9,6 +9,7 @@
   - [5장 표현식과 문](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/5%EC%9E%A5_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8.md)
   - [6장 데이터타입](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/6%EC%9E%A5_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
   - [7장 연산자](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/7%EC%9E%A5_%EC%97%B0%EC%82%B0%EC%9E%90.md)
+  - [8장 제어문](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/8%EC%9E%A5_%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
   - [37장 Set과 Map](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/37%EC%9E%A5_Set%EA%B3%BCMap.md)
 
 ## 네트워크
