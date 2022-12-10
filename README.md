@@ -13,6 +13,7 @@
   - [9장 타입 변환과 단축 평가](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/9%EC%9E%A5_%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)
   - [10장 객체 리터럴](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/10%EC%9E%A5_%EA%B0%9D%EC%B2%B4%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
   - [11장 원시 값과 객체의 비교](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/11%EC%9E%A5_%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%EA%B0%9D%EC%B2%B4%EC%9D%98%EB%B9%84%EA%B5%90.md)
+  - [12장 함수](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/12%EC%9E%A5_%ED%95%A8%EC%88%98.md)
   - [37장 Set과 Map](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/37%EC%9E%A5_Set%EA%B3%BCMap.md)
 
 ## HTML & CSS
@@ -22,5 +23,5 @@
 
 ## 📖 도서
 - [함께자라기](https://github.com/xunxee/TIL/blob/main/%EB%8F%84%EC%84%9C/%ED%95%A8%EA%BB%98_%EC%9E%90%EB%9D%BC%EA%B8%B0.md)
-- [모두의 네트워크]()
+- [모두의 네트워크](https://github.com/xunxee/TIL/blob/main/%EB%8F%84%EC%84%9C/%EB%AA%A8%EB%91%90%EC%9D%98%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%AA%A8%EB%91%90%EC%9D%98%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
