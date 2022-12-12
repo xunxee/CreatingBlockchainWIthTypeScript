@@ -20,6 +20,10 @@
 ## HTML & CSS
 - [flex: 1](https://github.com/xunxee/TIL/blob/main/HTML&CSS/flex1.md)
 
+## CS
+- CS50
+  - [1장 컴퓨팅 사고]()
+
 ## 네트워크
 
 ## 📖 도서
