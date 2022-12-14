@@ -22,7 +22,7 @@
 
 ## CS
 - CS50
-  - [1장 컴퓨팅 사고]()
+  - [1장 컴퓨팅 사고](https://github.com/xunxee/TIL/blob/main/CS/1%EC%9E%A5_%EC%BB%B4%ED%93%A8%ED%8C%85%EC%82%AC%EA%B3%A0.md)
 
 ## 네트워크
 
