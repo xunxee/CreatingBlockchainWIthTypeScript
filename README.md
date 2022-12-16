@@ -16,13 +16,15 @@
   - [12장 함수](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/12%EC%9E%A5_%ED%95%A8%EC%88%98.md)
   - [13장 스코프](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/13%EC%9E%A5_%EC%8A%A4%EC%BD%94%ED%94%84.md)
   - [37장 Set과 Map](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/37%EC%9E%A5_Set%EA%B3%BCMap.md)
+  - [42장 비동기 프로그래밍](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/42%EC%9E%A5_%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 
 ## HTML & CSS
 - [flex: 1](https://github.com/xunxee/TIL/blob/main/HTML&CSS/flex1.md)
 
 ## CS
 - CS50
-  - [1장 컴퓨팅 사고](https://github.com/xunxee/TIL/blob/main/CS/1%EC%9E%A5_%EC%BB%B4%ED%93%A8%ED%8C%85%EC%82%AC%EA%B3%A0.md)
+  - [1장 컴퓨팅 사고](https://github.com/xunxee/TIL/blob/main/CS/%ED%95%98%EB%B2%84%EB%93%9C%EB%8C%80CS50/1%EC%9E%A5_%EC%BB%B4%ED%93%A8%ED%8C%85%EC%82%AC%EA%B3%A0.md)
+  - [2장 C언어의 기초](https://github.com/xunxee/TIL/blob/main/CS/%ED%95%98%EB%B2%84%EB%93%9C%EB%8C%80CS50/2%EC%9E%A5_C%EC%96%B8%EC%96%B4%EC%9D%98%EA%B8%B0%EC%B4%88.md)
 
 ## 네트워크
 
