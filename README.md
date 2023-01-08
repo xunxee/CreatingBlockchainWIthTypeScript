@@ -15,6 +15,7 @@
   - [11장 원시 값과 객체의 비교](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/11%EC%9E%A5_%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%EA%B0%9D%EC%B2%B4%EC%9D%98%EB%B9%84%EA%B5%90.md)
   - [12장 함수](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/12%EC%9E%A5_%ED%95%A8%EC%88%98.md)
   - [13장 스코프](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/13%EC%9E%A5_%EC%8A%A4%EC%BD%94%ED%94%84.md)
+  - [14장 전역 변수의 문제점](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/14%EC%9E%A5_%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
   - [23장 실행 컨텍스트](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/23%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
   - [35장 스프레드 문법](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/35%EC%9E%A5_%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%EB%AC%B8%EB%B2%95.md)
   - [36장 디스트럭처링 할당](https://github.com/xunxee/TIL/blob/main/java_script/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/36%EC%9E%A5_%EB%94%94%EC%8A%A4%ED%8A%B8%EB%9F%AD%EC%B2%98%EB%A7%81%ED%95%A0%EB%8B%B9.md)
