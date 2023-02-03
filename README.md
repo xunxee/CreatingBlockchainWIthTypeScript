@@ -36,7 +36,6 @@
 
 ## 📖 도서
 - [함께자라기](https://github.com/xunxee/TIL/blob/main/%EB%8F%84%EC%84%9C/%ED%95%A8%EA%BB%98_%EC%9E%90%EB%9D%BC%EA%B8%B0.md)
-- [모두의 네트워크](https://github.com/xunxee/TIL/blob/main/%EB%8F%84%EC%84%9C/%EB%AA%A8%EB%91%90%EC%9D%98%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%AA%A8%EB%91%90%EC%9D%98%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 - 모두의 네트워크
   - [1장 네트워크의 첫 걸음](https://github.com/xunxee/TIL/blob/main/%EB%8F%84%EC%84%9C/%EB%AA%A8%EB%91%90%EC%9D%98%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/1%EC%9E%A5_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%B2%AB%EA%B1%B8%EC%9D%8C.md)
